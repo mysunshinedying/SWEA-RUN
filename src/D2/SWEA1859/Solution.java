@@ -1,4 +1,4 @@
-package SWEA1859;
+package D2.SWEA1859;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

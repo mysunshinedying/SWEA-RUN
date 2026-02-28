@@ -1,4 +1,4 @@
-package SWEA5215;
+package D3.SWEA5215;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

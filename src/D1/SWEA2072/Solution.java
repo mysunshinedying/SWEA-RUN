@@ -1,4 +1,4 @@
-package SWEA2072;
+package D1.SWEA2072;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
