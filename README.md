@@ -7,12 +7,14 @@ SWEA 코딩 테스트 완주에 대한 정답을 모아두었습니다.
 ## D1
 - [SWEA 2072 홀수만 더하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QSEhaA5sDFAUq)
 - [SWEA 2056 연월일 달력](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5QLkdKAz4DFAUq)
+- [SWEA 21936 길이가 M인 회문 찾기](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AZFkKmLa1zEDFAQW)
 
 ## D2
 - [SWEA 1859 백만 장자 프로젝트](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LrsUaDxcDFAXc)
 
 ## D3
 - [SWEA 5215 햄버거 다이어트](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWT-lPB6dHUDFAVT)
+- [SWEA 2805 농작물 수확하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7GLXqKAWYDFAXB)
 
 ## D4
 - [SWEA 26071 블록 제거 게임](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AZwmCVWq3uLHBIT3)
