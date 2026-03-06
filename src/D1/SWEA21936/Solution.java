@@ -25,7 +25,6 @@ public class Solution {
             //또 toCharArray 잊어서 다음에는 꼭 하기로 ㅠㅠ..
 
             int idx = -1;
-            boolean thisPal = false;
 
             for (int i = 0; i < N - M + 1; i++) {
                 boolean itsPal = true;

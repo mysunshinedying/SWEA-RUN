@@ -17,4 +17,5 @@ SWEA 코딩 테스트 완주에 대한 정답을 모아두었습니다.
 - [SWEA 2805 농작물 수확하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7GLXqKAWYDFAXB)
 
 ## D4
+- [SWEA 25838 여우 줄이기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AZtxnSyquD7HBIQE)
 - [SWEA 26071 블록 제거 게임](https://swexpertacademy.com/main/code/userProblem/userProblemDetail.do?contestProbId=AZwmCVWq3uLHBIT3)

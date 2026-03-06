@@ -2,7 +2,6 @@ package D3.SWEA2805;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
-import java.util.StringTokenizer;
 
 public class Solution {
     public static void main(String[] args) throws Exception {
@@ -27,7 +26,6 @@ public class Solution {
             //                total -= arr[center][center] - '0'; //겹쳐지는 것 제외
 
             for (int i = 0; i < N; i++) {
-                int idx = i * 2 + 1;
                 //0번째는 center만
                 //1번째는 center -1 center center + 1
                 //2번째는 center -2 center ...
